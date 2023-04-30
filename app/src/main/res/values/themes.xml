@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<<<<<<< HEAD
+    <style name="Theme.LoginRegister" parent="android:Theme.Material.Light.NoActionBar">
+=======
+    <style name="Theme.Toodoo" parent="android:Theme.Material.Light.NoActionBar">
+>>>>>>> 4b0536009d794b3c331866900fb5c80bfd16b4d3
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

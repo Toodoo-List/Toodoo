@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">LoginRegister</string>
+=======
+    <string name="app_name">Toodoo</string>
+>>>>>>> 4b0536009d794b3c331866900fb5c80bfd16b4d3
+</resources>
